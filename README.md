@@ -6,10 +6,15 @@ It provides a complete game experience with graphics and user interaction.
  Table of Contents
  
   -Introduction
+  
   -Installation
+  
   -Usage
+  
   -Project Structure
+  
   -Contributing
+  
   -License
 
 
@@ -37,13 +42,21 @@ Usage
 To run the Flappy Bird game, follow these steps:
 
  1)Open the Nand2Tetris software suite and navigate to the project's root directory.
+ 
  2)Copy the provided VM files and Jack files for the Flappy Bird game into the project's directory.
+ 
  3)Open the Nand2Tetris Hardware Simulator.
+ 
  4)Load the provided .hdl files into the simulator to initialize the hardware components.
+ 
  5)Load the Flappy Bird VM files into the simulator.
+ 
  6)Click the "Load Program" button in the simulator and select the main VM file to load the game.
+ 
  7)Start the simulation by clicking the "Run" button.
+ 
  8)Enjoy playing the Flappy Bird game! Use the appropriate keys or controls specified in the game to control the bird.
+ 
 
 
 Project Structure
@@ -52,10 +65,15 @@ The project structure is organized as follows:
 
 
  ├── FlappyBird.jack       # Main Jack file for the Flappy Bird game
+ 
  ├── Game.jack             # Game logic implementation
+ 
  ├── Bird.jack             # Bird class implementation
+ 
  ├── Pipe.jack             # Pipe class implementation
+ 
  ├── Assets                # Directory containing game assets (images, sounds, etc.)
+ 
  └── README.md             # Project README file
 
 The project consists of the main Jack file FlappyBird.jack, along with several other files that implement the game logic, bird behavior, and pipe mechanics. 
