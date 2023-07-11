@@ -3,6 +3,8 @@
 This project is an implementation of the popular Flappy Bird game using the Nand2Tetris framework. 
 It provides a complete game experience with graphics and user interaction.
 
+
+
  Table of Contents
  
   -Introduction
@@ -18,6 +20,8 @@ It provides a complete game experience with graphics and user interaction.
   -License
 
 
+
+
  Introduction
  
 The Flappy Bird game in Nand2Tetris is a fun and challenging game where the player controls a bird trying to navigate through a series of pipes.
@@ -28,6 +32,7 @@ to build a complete computer system from scratch.
 
 
 
+
 Installation
 
 To run the Flappy Bird game, you need to have the Nand2Tetris software suite installed on your computer. Follow these steps to set up the environment:
@@ -35,6 +40,8 @@ To run the Flappy Bird game, you need to have the Nand2Tetris software suite ins
 Download the Nand2Tetris software suite from the official website (http://www.nand2tetris.org/software/nand2tetris.zip).
 Extract the contents of the downloaded ZIP file to a directory of your choice.
 Navigate to the directory where you extracted the files.
+
+
 
 
 Usage
@@ -59,6 +66,8 @@ To run the Flappy Bird game, follow these steps:
  
 
 
+
+
 Project Structure
 
 The project structure is organized as follows:
@@ -81,10 +90,14 @@ The Assets directory contains any additional assets required by the game.
 
 
 
+
+
 Contributing
 
 Contributions to the project are welcome! If you find any issues or have suggestions for improvement, please submit them as GitHub issues in this repository.
 Feel free to fork the repository and submit pull requests with your changes.
+
+
 
 
 License
